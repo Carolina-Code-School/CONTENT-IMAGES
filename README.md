@@ -1,1 +1,1 @@
-# CONTENT-IMAGES
+# Intro-to-JavaScript
