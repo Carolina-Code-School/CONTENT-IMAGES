@@ -1,1 +1,1 @@
-# code-illustrations
+# javascript-intro-madlib
